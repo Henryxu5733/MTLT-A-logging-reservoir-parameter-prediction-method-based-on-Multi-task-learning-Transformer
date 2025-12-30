@@ -1,4 +1,4 @@
-**Confidentiality Notice**
+## Confidentiality Notice
 
 This repository is part of an ongoing industry–academia collaboration.
 Due to confidentiality agreements, the original well-log datasets and full training code are currently not publicly available.
