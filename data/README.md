@@ -1,6 +1,6 @@
 ## Example Data Description
 
-The file `example_synthetic.csv` is a synthetic dataset created solely for demonstrating the data format and workflow.
+The file `example.csv` is a synthetic dataset created solely for demonstrating the data format and workflow.
 
 ### Features
 - AC: Acoustic log
